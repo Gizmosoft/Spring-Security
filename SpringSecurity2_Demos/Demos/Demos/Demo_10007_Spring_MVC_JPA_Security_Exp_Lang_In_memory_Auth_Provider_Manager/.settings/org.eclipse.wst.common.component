@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Demo_10007_Spring_MVC_JPA_Security_Exp_Lang_In_memory_Auth_Provider_Manager">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Demo_10007_Spring_MVC_JPA_Security_Exp_Lang_In_memory_Auth_Provider_Manager"/>
+        <property name="java-output-path" value="/Demo_10007_Spring_MVC_JPA_Security_Exp_Lang_In_memory_Auth_Provider_Manager/build/classes"/>
+    </wb-module>
+</project-modules>

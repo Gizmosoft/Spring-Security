@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Demo_10010_Spring_MVC_JPA_Sec_Exp_IMDB_Auth_Prov_Manager_Service_Layer_Security">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Demo_10010_Spring_MVC_JPA_Sec_Exp_IMDB_Auth_Prov_Manager_Service_Layer_Security"/>
+        <property name="java-output-path" value="/Demo_10010_Spring_MVC_JPA_Sec_Exp_IMDB_Auth_Prov_Manager_Service_Layer_Security/build/classes"/>
+    </wb-module>
+</project-modules>
