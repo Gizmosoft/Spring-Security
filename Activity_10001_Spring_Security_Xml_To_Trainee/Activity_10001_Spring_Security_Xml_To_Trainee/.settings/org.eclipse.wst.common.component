@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Activity_10001_Spring_Security_Xml_To_Trainee">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/Activity_10001_Spring_Security_Xml_To_Trainee/build/classes"/>
+        <property name="context-root" value="Activity_10001_Spring_Security_Xml_To_Trainee"/>
+    </wb-module>
+</project-modules>
